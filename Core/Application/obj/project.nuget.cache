@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EysKZCJ1hMg=",
+  "success": true,
+  "projectFilePath": "/Users/zeynepkuri/Projects/DemoCleanArchitecture/Core/Application/Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/zeynepkuri/.nuget/packages/microsoft.netcore.app.ref/8.0.12/microsoft.netcore.app.ref.8.0.12.nupkg.sha512",
+    "/Users/zeynepkuri/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.12/microsoft.aspnetcore.app.ref.8.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
